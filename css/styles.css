@@ -60,10 +60,9 @@ main, aside{
 .blog h2{
     font-size: 32px;
     color: #48BB78;
-    line-height: 0.5em;
+    margin-bottom: 0;
 }
 .blog h4{
-    line-height: 0.5em;
     color: #718096;
 }
 
